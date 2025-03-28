@@ -34,7 +34,7 @@
             <mxPoint x="218" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQUOtO3qDmBd-t-aDTVQ-16" value="&lt;font face=&quot;宋体&quot;&gt;原始训练数据&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;D维变量，M组样本&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQUOtO3qDmBd-t-aDTVQ-16" value="&lt;font face=&quot;宋体&quot;&gt;决策树1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="373.74" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
