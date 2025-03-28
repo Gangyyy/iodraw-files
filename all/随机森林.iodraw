@@ -19,9 +19,6 @@
             <mxPoint x="590" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQUOtO3qDmBd-t-aDTVQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="373.74" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="373.74" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
             <mxPoint x="434" y="210" as="sourcePoint" />
             <mxPoint x="218" y="272" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zQUOtO3qDmBd-t-aDTVQ-16" value="&lt;font face=&quot;宋体&quot;&gt;原始训练数据&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;D维变量，M组样本&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
