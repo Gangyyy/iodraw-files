@@ -8,7 +8,10 @@
           <mxGeometry x="110" y="250" width="596" height="123.74" as="geometry" />
         </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-3" value="原始训练数据&lt;div&gt;D维变量，M组样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQUOtO3qDmBd-t-aDTVQ-4" value="随机化&lt;div&gt;（特征随机，样本随机）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="146" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
