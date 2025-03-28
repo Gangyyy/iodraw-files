@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="250" width="596" height="123.74" as="geometry" />
         </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-3" value="&lt;font face=&quot;宋体&quot;&gt;原始训练数据&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;D维变量，M组样本&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="10" width="136" height="60" as="geometry" />
+          <mxGeometry x="346" y="30" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-4" value="&lt;font face=&quot;宋体&quot;&gt;随机化&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（特征随机，样本随机）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="130" width="136" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="373.74" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQUOtO3qDmBd-t-aDTVQ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="373.74" width="120" height="60" as="geometry" />
