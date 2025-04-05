@@ -26,7 +26,10 @@
           <mxGeometry x="390" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
