@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iJ8Mk-Uh5WKTuWc3Aom6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ8Mk-Uh5WKTuWc3Aom6-1" target="iJ8Mk-Uh5WKTuWc3Aom6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iJ8Mk-Uh5WKTuWc3Aom6-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="70" height="70" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
         <mxCell id="iJ8Mk-Uh5WKTuWc3Aom6-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iJ8Mk-Uh5WKTuWc3Aom6-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="iJ8Mk-Uh5WKTuWc3Aom6-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="170" y="310" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
