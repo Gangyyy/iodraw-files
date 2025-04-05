@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="tvKPsdUlyh0GvyYbqYFe">
+    <mxGraphModel dx="1303" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;全部训练样本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
