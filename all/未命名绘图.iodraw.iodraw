@@ -13,7 +13,7 @@
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-5" value="&lt;font face=&quot;宋体&quot;&gt;全部训练样本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-6" value="&lt;font face=&quot;宋体&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-7" value="&lt;font face=&quot;宋体&quot;&gt;全部训练样本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-8" value="&lt;font face=&quot;宋体&quot;&gt;全部训练样本&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-9" value="&lt;font face=&quot;宋体&quot;&gt;样本集合i&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
