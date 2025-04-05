@@ -11,7 +11,13 @@
           <mxGeometry x="240" y="90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="90" height="40" as="geometry" />
+          <mxGeometry x="240" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;样本集合1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
