@@ -25,14 +25,14 @@
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;有放回采样&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="40" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="50" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="147.5" width="86" height="85" as="geometry" />
+          <mxGeometry x="349" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="170" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
