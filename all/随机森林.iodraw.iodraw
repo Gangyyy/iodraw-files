@@ -11,7 +11,7 @@
           <mxGeometry x="90" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;CART树1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="70" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;预测结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="90" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="530" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;CART树1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;有放回采样&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="349" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="349" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="349" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
