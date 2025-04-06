@@ -16,7 +16,7 @@
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;CART树n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="295" width="119" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-20" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;有放回采样&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-20" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;有放回&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;采样&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
