@@ -22,12 +22,6 @@
         <mxCell id="HJoh1_aoJwpAUtM4NZ2O-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;有放回采样&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HJoh1_aoJwpAUtM4NZ2O-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HJoh1_aoJwpAUtM4NZ2O-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="270" as="sourcePoint" />
-            <mxPoint x="490" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
