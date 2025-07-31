@@ -94,7 +94,7 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-32" value="互联网平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="554" width="1046" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-33" value="环境监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-33" value="中间件技术ACE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-34" value="动姿监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
