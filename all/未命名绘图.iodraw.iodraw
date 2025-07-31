@@ -88,13 +88,10 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-29" value="事件驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="474" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-30" value="工序协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-30" value="统一调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="464" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-31" value="充电管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="464" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-32" value="位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-32" value="互联网平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-33" value="环境监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
