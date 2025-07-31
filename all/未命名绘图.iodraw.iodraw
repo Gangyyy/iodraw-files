@@ -107,10 +107,10 @@
           <mxGeometry x="220" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-37" value="基于UWB的一体化位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="790" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-38" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-39" value="诊断分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="704" width="120" height="60" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-42" value="接口协议层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-43" value="集群协同调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="644" width="120" height="60" as="geometry" />
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-43" value="设备层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
