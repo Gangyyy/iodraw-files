@@ -85,7 +85,7 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-28" value="分析算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="474" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-29" value="任务编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-29" value="shijian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-30" value="工序协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
