@@ -97,7 +97,7 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-33" value="中间件技术ACE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-34" value="动姿监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-34" value="自适应集成通信协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-35" value="孪生建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-42" value="仿真与控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="644" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-43" value="集群协同调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="644" width="120" height="60" as="geometry" />
