@@ -25,6 +25,9 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-8" value="任务编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-9" value="工序协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
