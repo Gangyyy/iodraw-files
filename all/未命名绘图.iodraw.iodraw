@@ -64,8 +64,8 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-21" value="仿真与控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-22" value="仿真与控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-22" value="集群协同调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
