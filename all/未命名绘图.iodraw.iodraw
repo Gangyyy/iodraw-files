@@ -29,7 +29,10 @@
           <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-10" value="充电管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-11" value="位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
