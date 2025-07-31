@@ -16,8 +16,11 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-5" value="模型驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Js1rJCOFAiuSB1j1Kyau-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-6" value="远程控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
