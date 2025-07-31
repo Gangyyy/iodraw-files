@@ -67,6 +67,69 @@
         <mxCell id="Js1rJCOFAiuSB1j1Kyau-22" value="集群协同调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-23" value="业务应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-24" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 等线;&quot;&gt;音视频分析&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-25" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 等线;&quot;&gt;异常报警&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-26" value="模型驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-27" value="远程控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-28" value="作业规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-29" value="任务编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-30" value="工序协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-31" value="充电管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-32" value="位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-33" value="环境监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-34" value="动姿监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-35" value="孪生建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-36" value="作业仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-37" value="群集定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-38" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-39" value="诊断分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-40" value="绩效管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-41" value="环境与状态监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-42" value="仿真与控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Js1rJCOFAiuSB1j1Kyau-43" value="集群协同调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
